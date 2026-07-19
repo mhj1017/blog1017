@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-CN'
+title = '我的第一篇博客'
+theme = "PaperMod"
+
+[params]
+author = "你的名字"
+description = "作业博客"
